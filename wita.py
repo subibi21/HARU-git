@@ -6,7 +6,6 @@ sys.setdefaultencoding('utf-8')
 import requests
 import json
 from witr import record_audio, read_audio
-import Wit
 
 from sys import argv
 
